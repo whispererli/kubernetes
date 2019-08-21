@@ -1,4 +1,5 @@
 #!/usr/bin/env bash
+set -x
 
 # Copyright 2016 The Kubernetes Authors.
 #
